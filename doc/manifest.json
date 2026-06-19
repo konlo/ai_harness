@@ -1,0 +1,59 @@
+{
+  "savedAt": "2026-06-19T14:15:41.264Z",
+  "items": [
+    {
+      "series": 1,
+      "title": "시리즈 1. AI Agent의 명확한 한계 — FREEDOBY",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-1.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-1.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-1.txt",
+      "htmlLength": 14574,
+      "textLength": 6455
+    },
+    {
+      "series": 2,
+      "title": "시리즈 2. 왜 한계가 발생하는가 — FREEDOBY",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-2.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-2.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-2.txt",
+      "htmlLength": 12404,
+      "textLength": 5882
+    },
+    {
+      "series": 3,
+      "title": "시리즈 3. Prompt → Context → Harness 엔지니어링의 진화 — FREEDOBY",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-3.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-3.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-3.txt",
+      "htmlLength": 16668,
+      "textLength": 7736
+    },
+    {
+      "series": 4,
+      "title": "시리즈 4. 나눠서 정복한다 — FREEDOBY",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-4.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-4.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-4.txt",
+      "htmlLength": 17292,
+      "textLength": 8568
+    },
+    {
+      "series": 5,
+      "title": "시리즈 5. 실행이 10분이 된 세상 — FREEDOBY",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-5.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-5.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-5.txt",
+      "htmlLength": 15657,
+      "textLength": 7067
+    },
+    {
+      "series": 6,
+      "title": "시리즈 6. HALO Workflow — 철학이 구조가 되다",
+      "url": "https://freedoby.github.io/freedoby-blog/series/series-6.html",
+      "htmlFile": "/Users/najongseong/git_repository/ai_harness/doc/series-6.html",
+      "txtFile": "/Users/najongseong/git_repository/ai_harness/doc/series-6.txt",
+      "htmlLength": 25097,
+      "textLength": 12720
+    }
+  ]
+}
