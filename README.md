@@ -5,6 +5,12 @@ This repository stores two related artifacts:
 1. A local archive of FREEDOBY's AI Agent / HALO Workflow article series.
 2. A reusable HALO-compatible generic harness template for AI-assisted software work.
 
+## Agent Instruction Priority
+
+`CLAUDE.md` is the primary local behavior guide for this repository. Agents
+should read it first, then use `AGENTS.md` for priority routing and the
+`generic_harness/` runbooks for HALO-specific work.
+
 ## Contents
 
 ### `doc/`
